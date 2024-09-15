@@ -7,4 +7,3 @@ Display or hide the postal on maps with the command "postal"
 Using the CFX native ADD_REPLACE_TEXTURE : https://docs.fivem.net/natives/?_0xA66F8F75
 ⚠️ Experimental natives, please do not use in a live environment ⚠️
 
-Personally I had the impression of having some little freeze
